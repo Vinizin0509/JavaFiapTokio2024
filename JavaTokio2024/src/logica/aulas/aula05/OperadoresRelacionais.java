@@ -6,7 +6,6 @@ public class OperadoresRelacionais {
 	public static void main(String[] args) {
 		
 		
-		
 		System.out.println(6 == 3);
 
 		int num1 = 40;
@@ -24,6 +23,8 @@ public class OperadoresRelacionais {
 		String nome1 = "Joana";
 		String nome2 = "joana";
 		System.out.println(nome1 == nome2);
+		
+		
 		
 	}
 	
