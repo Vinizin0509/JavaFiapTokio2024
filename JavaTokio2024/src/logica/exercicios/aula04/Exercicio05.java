@@ -10,7 +10,7 @@ public class Exercicio05 {
 		System.out.println("Digite um salário");
 		double salario = sc.nextDouble();
 		System.out.println("o salario escolhido foi: " + salario);
-		
+		sc.close();
 		
 		
 		

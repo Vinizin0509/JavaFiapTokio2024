@@ -1,14 +1,10 @@
 package logica.exercicios.aula04;
 
-import java.util.Scanner;
-
-public class Exercicio07 {
+class Exercicio08 {
 
 	public static void main(String[] args) {
-		
-	
-		
-		
+		// TODO Auto-generated method stub
+
 	}
 
 }

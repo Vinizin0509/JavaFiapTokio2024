@@ -12,6 +12,8 @@ public class Exercicio04 {
 		Scanner scan = new Scanner (System.in);
 		System.out.println("Digite sua idade");
 		int idade = scan.nextInt();
+		sc.close();
+		scan.close();
 		
 		System.out.println("Olá," + nome + "Voce tem" + idade + "anos");
 		
