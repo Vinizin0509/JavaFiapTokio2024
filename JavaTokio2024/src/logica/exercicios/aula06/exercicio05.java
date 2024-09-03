@@ -20,22 +20,25 @@ public class exercicio05 {
 		System.out.println("digite o segundo numero: ");
 		double numero2 = sc.nextDouble();
 		
-		System.out.println("digite um caractere de operacao matematica: ");
+		System.out.println("digite um caractere de operacao matematica: (+,-,*,/): ");
 		char operacao = sc.next().charAt(0);
+  double resultado = 0
 		
 		switch (operacao) {
 		case '+': 
-			double soma = (numero1 + numero2);
+			 resultado = (numero1 + numero2);
 			break;
 		case '-':
-			double subtracao = (numero1 - numero2);
+			 resultado = (numero1 - numero2);
 			break;
 		case '*':
-			double multiplicacao = (numero1 * numero2);
+			 resultado = (numero1 * numero2);
 			break;
 		case '/':
-			double divisao = (numero1 / numero2);
+			resultado = (numero1 / numero2);
 			break;
+
+  system.out.println("o resultado da operação é: " + resultado);
 			
 			
 	
