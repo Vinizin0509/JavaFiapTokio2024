@@ -27,9 +27,7 @@ public class atividade04 {
 		System.out.println("A media e: " + media);
 		
 		
-		
-		
-//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
+
 	}
 
 }
