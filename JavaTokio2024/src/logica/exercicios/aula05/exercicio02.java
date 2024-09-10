@@ -35,7 +35,7 @@ public class exercicio02 {
 		String numFloatStr = Float.toString(numFloat);
 		String numDoubleStr = Double.toString(numDouble);
 		
-		System.out.println("%s %s %s\"," numIntString, numFloat, numDouble))
+//		System.out.println("%s %s %s\"," numIntString, numFloat, numDouble))
 	}
 
 }
