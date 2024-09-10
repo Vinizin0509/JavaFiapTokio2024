@@ -14,7 +14,7 @@ public class exercicio07 {
 		System.out.println("digite o valor a ser pago");
 		double valorPago = sc.nextDouble();
 		
-		double troco = 
+	
 	
 		
 		

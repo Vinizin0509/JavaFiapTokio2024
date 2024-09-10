@@ -28,11 +28,8 @@ public class exercicio02 {
 		
 		
 		
-		for (int i = 0; i <= 100; i++) {
-			for (int i)
-			System.out.println(i);
 			
 		}
 	}
-}
+
 
