@@ -25,7 +25,11 @@ public class exercicio02 {
 		
 		
 		
-		
+		for (int i = 0; i <101; i+=10) {
+			System.out.println(i);
+					
+
+			}
 		
 		
 			
